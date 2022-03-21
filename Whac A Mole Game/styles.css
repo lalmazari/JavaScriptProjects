@@ -1,0 +1,24 @@
+.grid{
+    width: 606px;
+    hyphens: 606px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: 1px solid #000;
+
+}
+
+.mole {
+    background-image: url(whacamole.png);
+    background-size: cover;
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: 800;
+}
